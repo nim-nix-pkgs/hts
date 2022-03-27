@@ -11,6 +11,7 @@
   inputs.src-hts-v0_3_7.ref   = "refs/tags/v0.3.7";
   inputs.src-hts-v0_3_7.owner = "brentp";
   inputs.src-hts-v0_3_7.repo  = "hts-nim";
+  inputs.src-hts-v0_3_7.dir   = "";
   inputs.src-hts-v0_3_7.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
