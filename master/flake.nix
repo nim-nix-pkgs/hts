@@ -11,7 +11,6 @@
   inputs.src-hts-master.ref   = "refs/heads/master";
   inputs.src-hts-master.owner = "brentp";
   inputs.src-hts-master.repo  = "hts-nim";
-  inputs.src-hts-master.dir   = "";
   inputs.src-hts-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
