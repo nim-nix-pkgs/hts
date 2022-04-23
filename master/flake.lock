@@ -42,11 +42,11 @@
     "src-hts-master": {
       "flake": false,
       "locked": {
-        "lastModified": 1643731679,
-        "narHash": "sha256-LmJd997hLYeRlTRf5FAq3lYz5vZgFBn3iOFg+ea8dCk=",
+        "lastModified": 1649829237,
+        "narHash": "sha256-LYc0ViuWRlFoBKvYsq/brJAw3TkCmH+kLRhiXMEF6bE=",
         "owner": "brentp",
         "repo": "hts-nim",
-        "rev": "3dfc5851f79be6d285ff3944ceff9ce98ad6e972",
+        "rev": "69958ef1f341692fa263d0b120fb9a72f8f9808c",
         "type": "github"
       },
       "original": {
