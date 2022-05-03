@@ -36,10 +36,10 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
-        "src-hts-master": "src-hts-master"
+        "src-hts-v0_3_22": "src-hts-v0_3_22"
       }
     },
-    "src-hts-master": {
+    "src-hts-v0_3_22": {
       "flake": false,
       "locked": {
         "lastModified": 1651418143,
@@ -51,7 +51,7 @@
       },
       "original": {
         "owner": "brentp",
-        "ref": "refs/heads/master",
+        "ref": "refs/tags/v0.3.22",
         "repo": "hts-nim",
         "type": "github"
       }
